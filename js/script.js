@@ -1,7 +1,9 @@
 const photos = [
     { src: "images/Bird.jpeg", title: "Bird", category: "Nature" },
-  
-]
+    { src: "images/DragonHill.jpeg", title: "Dragon Hill", category: "Travel" },
+    { src: "images/HleYin.jpeg", title: "Hle Yin", category: "Travel" },
+    { src: "images/Sunset.jpeg", title: "Sunset", category: "Nature" },
+];
 // ======= get element ==========
 
 const gallery = document.getElementById("gallery");
